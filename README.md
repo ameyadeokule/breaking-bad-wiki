@@ -12,10 +12,10 @@ There is a huge community of Breakig Bad fans who dont have information about th
 
 ### Tasks To Be Completed
 
-Fetch Characters - completed
-List Character - completed
-Add Character details - completed
-Create a Search function - completed
-Create a landing page - completed
-Series Specific Styles
+#### Fetch Characters - completed
+#### List Character - completed
+#### Add Character details - completed
+#### Create a Search function - completed
+#### Create a landing page - completed
+#### Series Specific Styles
 
